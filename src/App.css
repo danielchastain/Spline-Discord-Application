@@ -1,5 +1,15 @@
-main {
+body{
+  margin: 0;
+}
+html,
+body,
+#root{
+  height: 100%;
+  background:#0e1129;
+}
+
+.container {
+  position: relative;
   text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+
 }
